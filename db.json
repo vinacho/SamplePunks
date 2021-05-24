@@ -1,0 +1,83 @@
+{
+    "tokens": [
+        {
+            "id": 0,
+            "image": "https://gateway.pinata.cloud/ipfs/QmNQYGYxgWf7tdWtK3684dkDMk8pNzzVWqMVD6PhgB9BRz",
+            "name": "SamplePunk #1",
+            "attributes": [
+                {
+                  "trait_type": "Type",
+                  "value": "Male"
+                },
+                {
+                  "trait_type": "Attribute",
+                  "value": "Shaved"
+                },
+                {
+                  "trait_type": "Attribute",
+                  "value": "Animated"
+                }
+              ]
+        },
+        {
+            "id": 1,
+            "image": "https://gateway.pinata.cloud/ipfs/QmdomTgw22FQLTbCkp9bcsc8VJPDTvVQTzbkg9AiCgtMMo",
+            "name": "SamplePunk #2",
+            "attributes": [
+                {
+                  "trait_type": "Type",
+                  "value": "Female"
+                },
+                {
+                  "trait_type": "Attribute",
+                  "value": "Pigtails"
+                }
+              ]
+        },
+        {
+            "id": 2,
+            "image": "https://gateway.pinata.cloud/ipfs/QmeQ9oxvJLqJnPKZ9Gn4EmELc6NKrKKhSpgngTG7zymDac",
+            "name": "SamplePunk #3",
+            "attributes": [
+                {
+                  "trait_type": "Type",
+                  "value": "Robot"
+                },
+                {
+                  "trait_type": "Attribute",
+                  "value": "Antenna"
+                }
+              ]
+        },
+        {
+            "id": 3,
+            "image": "https://gateway.pinata.cloud/ipfs/QmTysQD5ySwyCZA4qfzrZhDMMANB8qPcgNXC9SCHNLnbqJ",
+            "name": "SamplePunk #4",
+            "attributes": [
+                {
+                  "trait_type": "Type",
+                  "value": "Ape"
+                },
+                {
+                  "trait_type": "Attribute",
+                  "value": "Hair"
+                }
+              ]
+        },
+        {
+            "id": 4,
+            "image": "https://gateway.pinata.cloud/ipfs/QmevmLuHyaweyzN9Hn56ksePURyftU6RgwnfeNjeePDMTE",
+            "name": "SamplePunk #5",
+            "attributes": [
+                {
+                  "trait_type": "Type",
+                  "value": "Alien"
+                },
+                {
+                  "trait_type": "Attribute",
+                  "value": "Shaved"
+                }
+              ]
+        }
+    ]
+}
